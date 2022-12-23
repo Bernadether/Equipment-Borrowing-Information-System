@@ -1,0 +1,1 @@
+<?php echo '<script> location.replace("../logout.php"); </script>';}
